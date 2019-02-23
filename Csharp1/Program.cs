@@ -10,6 +10,7 @@ namespace Csharp1
     {
         static void Main(string[] args)
         {
+            //comment
             Console.WriteLine("Hello, world!");
             Console.ReadLine();
         }
