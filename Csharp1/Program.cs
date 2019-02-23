@@ -4,6 +4,7 @@
  */
 using System;
 //first comment
+//second comment
 class Program
 {
     static void Main()
